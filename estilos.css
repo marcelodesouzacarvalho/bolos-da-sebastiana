@@ -51,11 +51,26 @@ body{
     text-align: center;
     padding-top: 19px;
     padding-bottom: 19px;
-    color: ;
+    color: #19b46c;
 }
 
 .item-menu{
-    color: #FFE8D6;
+    color: #19b46c;
     font-size: 18PX;
     font-weight: 500px;
 }
+
+.foto-banner{
+    width: 1200px;
+    height: 445px;
+    object-fit: cover;
+}
+
+.banner{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 5px solid #c3e4dd;
+}
+
+.
